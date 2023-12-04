@@ -1,0 +1,6 @@
+com/tcc/entities/PlanilhaEntity.class
+com/tcc/service/TccService.class
+com/tcc/selenium/SeleniumOptions.class
+com/tcc/scheduller/Scheduller.class
+com/tcc/TccApplication.class
+com/tcc/repository/PlanilhaRepository.class

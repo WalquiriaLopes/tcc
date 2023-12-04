@@ -1,0 +1,3 @@
+# RPA - Fundo Nacional da Saúde
+
+Esse projeto é um bot de RPA (Robotic Process Automation) desenvolvido em linguagem Java, que acessa o site oficial de repasses do Fundo Nacional de Saúde para extrair planilhas atualizadas. A automação do processo de scraping possibilita a coleta eficiente e periódica de dados, que são posteriormente armazenados em um banco de dados para garantir integridade e facilidade de acesso.
